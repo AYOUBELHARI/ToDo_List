@@ -10,11 +10,11 @@ A responsive task management application built with JavaScript. TaskFlow helps u
 
 ### Desktop
 
-![TaskFlow Desktop](screenshots/Desktop.png)
+![TaskFlow Desktop](Desktop.png)
 
 ### Mobile
 
-![TaskFlow Mobile](screenshots/Mobile.png)
+![TaskFlow Mobile](Mobile.png)
 
 ## Features
 
